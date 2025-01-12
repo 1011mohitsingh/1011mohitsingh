@@ -1,4 +1,4 @@
-💫 About Me:
+# 💫 About Me:
 <br>🔭 I’m currently working on my AI project SafeSight-AI.<br>🤝 I’m looking to collaborate on Open Source and MERN Stack projects.<br>🙋‍♂️ I’m looking for help with Machine Learning and AI concepts.<br>🌱 I’m currently learning DSA (Java) and improving my Full-Stack Development skills.<br>💬 Ask me about Frontend Development, Backend Development, and DSA.<br> 📫 How to reach me: kmr.mohitsingh@gmail.com <br>⚡ Fun fact: I can spend hours debugging but forget what I had for lunch! 😄
 
 
