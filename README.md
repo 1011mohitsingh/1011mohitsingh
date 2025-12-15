@@ -1,16 +1,34 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+## 💫 About Me:
 
-<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<table>
+  <tr>
+    <!-- LEFT CONTENT -->
+    <td width="65%" valign="top">
 
-# 💫 About Me:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=1011mohitsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<br>🔭 I’m currently working on my project PeerShip.<br>🤝 I’m looking to collaborate on Open Source and MERN Stack projects.<br>🙋‍♂️ I’m looking for help with Machine Learning and AI concepts.<br>🌱 I’m currently learning DSA (Java) and improving my Full-Stack Development skills.<br>💬 Ask me about Frontend Development, Backend Development, and DSA.<br>
+
+🔭 I’m currently working on my project **PeerShip**.  
+🤝 I’m looking to collaborate on **Open Source & MERN Stack projects**.  
+🙋‍♂️ I’m looking for help with **Machine Learning & AI concepts**.  
+🌱 I’m currently learning **DSA (Java)** and improving **Full-Stack skills**.  
+💬 Ask me about **Frontend, Backend & DSA**.  
 📫 How to reach me: <a href="mailto:kmr.mohitsingh@gmail.com"><b>kmr.mohitsingh@gmail.com</b></a>  
 ⚡ Fun fact: I can spend hours debugging but forget what I had for lunch! 😄  
- 
+    </td>
+    <!-- RIGHT GIF -->
+    <td width="35%" align="center" valign="middle">
+      <img
+        src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
+        alt="coding"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -68,6 +86,5 @@
 ---
 ## 🏆 GitHub GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1011mohitsingh&theme=onedark&row=1&column=6)
----
 
 
