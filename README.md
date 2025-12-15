@@ -8,8 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=1011mohitsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 <br>🔭 I’m currently working on my project PeerShip.<br>🤝 I’m looking to collaborate on Open Source and MERN Stack projects.<br>🙋‍♂️ I’m looking for help with Machine Learning and AI concepts.<br>🌱 I’m currently learning DSA (Java) and improving my Full-Stack Development skills.<br>💬 Ask me about Frontend Development, Backend Development, and DSA.<br>
-⚡ Fun fact: I can spend hours debugging but forget what I had for lunch! 😄
-📫 How to reach me: **kmr.mohitsingh@gmail.com** <br>
+📫 How to reach me: <a href="mailto:kmr.mohitsingh@gmail.com"><b>kmr.mohitsingh@gmail.com</b></a>  
+⚡ Fun fact: I can spend hours debugging but forget what I had for lunch! 😄  
+ 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
