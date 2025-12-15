@@ -4,24 +4,12 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
-
-<table>
-  <tr>
-    <td valign="top">
-      <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=1011mohitsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-      </p>
-      <br>
-      🔭 I’m currently working on my project PeerShip.<br>
-      🤝 I’m looking to collaborate on Open Source and MERN Stack projects.<br>
-      🙋‍♂️ I’m looking for help with Machine Learning and AI concepts.<br>
-      🌱 I’m currently learning DSA (Java) and improving my Full-Stack Development skills.<br>
-      💬 Ask me about Frontend Development, Backend Development, and DSA.<br>
-      📫 How to reach me: **<a href="mailto:kmr.mohitsingh@gmail.com">kmr.mohitsingh@gmail.com</a>** <br>
-      ⚡ Fun fact: I can spend hours debugging but forget what I had for lunch! 😄
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=1011mohitsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+<br>🔭 I’m currently working on my project PeerShip.<br>🤝 I’m looking to collaborate on Open Source and MERN Stack projects.<br>🙋‍♂️ I’m looking for help with Machine Learning and AI concepts.<br>🌱 I’m currently learning DSA (Java) and improving my Full-Stack Development skills.<br>💬 Ask me about Frontend Development, Backend Development, and DSA.<br>
+📫 How to reach me: **kmr.mohitsingh@gmail.com** <br>
+⚡ Fun fact: I can spend hours debugging but forget what I had for lunch! 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,39 +17,42 @@
 </p>
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-    <a href="https://leetcode.com/u/mohit_singh1011//" target="_blank">
-    <img align="center"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
-         alt="leetcode"
-         width="40"
-         height="40"
-         style="filter: invert(1);" />
-  </a>
-
-   <a href="https://www.hackerrank.com/profile/kmr_mohitsingh" target="_blank">
-  <img align="center"
-       src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
-       alt="hackerrank"
-       width="40"
-       height="40" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/kmrmohif2q9" target="_blank">
-  <img align="center"
-       src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"
-       alt="GeeksforGeeks"
-       width="40"
-       height="40" 
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/mohit_singh1011//" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+         alt="leetcode"
+         width="40"
+         height="40"
          style="filter: invert(1);" />
+  </a>
+
+   <!-- HackerRank -->
+<a href="https://https://www.hackerrank.com/profile/kmr_mohitsingh" target="_blank">
+  <img align="center"
+       src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+       alt="hackerrank"
+       width="40"
+       height="40" />
 </a>
 
-    <a href="https://codolio.com/profile/mohit_singh1011" target="_blank">
-    <img align="center"
-         src="https://codolio.com/favicon.ico"
-         alt="codolio"
-         width="40"
-         height="40" />
-  </a>
+<!-- GeeksforGeeks -->
+<a href="https://www.geeksforgeeks.org/profile/kmrmohif2q9" target="_blank">
+  <img align="center"
+       src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"
+       alt="GeeksforGeeks"
+       width="40"
+       height="40" />
+</a>
+
+  <!-- Codolio -->
+  <a href="https://codolio.com/profile/mohit_singh1011" target="_blank">
+    <img align="center"
+         src="https://codolio.com/favicon.ico"
+         alt="codolio"
+         width="40"
+         height="40" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
@@ -73,6 +64,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1011mohitsingh&layout=compact&theme=graywhite)
 
 ---
-## 🏆 GitHub Trophies
+## 🏆 GitHub GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1011mohitsingh&theme=onedark&row=1&column=6)
 ---
+
+
