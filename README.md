@@ -1,66 +1,57 @@
 <h1 align="center">Hi 👋, I'm Mohit Singh</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<div align="center">
-    <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-    <div align="left" style="max-width: 65%;">
+<img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 # 💫 About Me:
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=1011mohitsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=1011mohitsingh&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-<br>
+<br>🔭 I’m currently working on my project PeerShip.<br>🤝 I’m looking to collaborate on Open Source and MERN Stack projects.<br>🙋‍♂️ I’m looking for help with Machine Learning and AI concepts.<br>🌱 I’m currently learning DSA (Java) and improving my Full-Stack Development skills.<br>💬 Ask me about Frontend Development, Backend Development, and DSA.<br>
+📫 How to reach me: **[kmr.mohitsingh@gmail.com](mailto:kmr.mohitsingh@gmail.com)** <br>⚡ Fun fact: I can spend hours debugging but forget what I had for lunch! 😄
 
-* 🔭 I’m currently working on my project **PeerShip**.
-* 🤝 I’m looking to collaborate on **Open Source** and **MERN Stack** projects.
-* 🙋‍♂️ I’m looking for help with **Machine Learning and AI concepts**.
-* 🌱 I’m currently learning **DSA (Java)** and improving my **Full-Stack Development** skills.
-* 💬 Ask me about **Frontend Development, Backend Development, and DSA**.
-* ⚡ Fun fact: I can spend hours debugging but forget what I had for lunch! 😄
-
-- 📫 How to reach me: **[kmr.mohitsingh@gmail.com](mailto:kmr.mohitsingh@gmail.com)**
-
-    </div>
-</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohit-singh-416848297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit singh" height="30" width="40" /></a>
 </p>
 <h3 align="left">Coding Profiles:</h3>
 <p align="left">
-    <a href="https://leetcode.com/u/mohit_singh1011//" target="_blank">
-    <img align="center"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
-         alt="leetcode"
-         width="40"
-         height="40"
-         style="filter: invert(1);" />
-  </a>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/mohit_singh1011//" target="_blank">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+         alt="leetcode"
+         width="40"
+         height="40"
+         style="filter: invert(1);" />
+  </a>
 
-   <a href="https://https://www.hackerrank.com/profile/kmr_mohitsingh" target="_blank">
-  <img align="center"
-       src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
-       alt="hackerrank"
-       width="40"
-       height="40" />
+   <!-- HackerRank -->
+<a href="https://https://www.hackerrank.com/profile/kmr_mohitsingh" target="_blank">
+  <img align="center"
+       src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+       alt="hackerrank"
+       width="40"
+       height="40" />
 </a>
 
+<!-- GeeksforGeeks -->
 <a href="https://www.geeksforgeeks.org/profile/kmrmohif2q9" target="_blank">
-  <img align="center"
-       src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"
-       alt="GeeksforGeeks"
-       width="40"
-       height="40" />
+  <img align="center"
+       src="https://media.geeksforgeeks.org/gfg-gg-logo.svg"
+       alt="GeeksforGeeks"
+       width="40"
+       height="40" />
 </a>
 
-    <a href="https://codolio.com/profile/mohit_singh1011" target="_blank">
-    <img align="center"
-         src="https://codolio.com/favicon.ico"
-         alt="codolio"
-         width="40"
-         height="40" />
-  </a>
+  <!-- Codolio -->
+  <a href="https://codolio.com/profile/mohit_singh1011" target="_blank">
+    <img align="center"
+         src="https://codolio.com/favicon.ico"
+         alt="codolio"
+         width="40"
+         height="40" />
+  </a>
 </p>
 
 # 💻 Tech Stack:
@@ -75,3 +66,5 @@
 ## 🏆 GitHub GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1011mohitsingh&theme=onedark&row=1&column=6)
 ---
+
+
