@@ -48,7 +48,7 @@
   </a>
 
    <!-- HackerRank -->
-<a href="https://https://www.hackerrank.com/profile/kmr_mohitsingh" target="_blank">
+<a href="https://www.hackerrank.com/profile/kmr_mohitsingh">
   <img align="center"
        src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
        alt="hackerrank"
